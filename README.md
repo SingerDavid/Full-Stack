@@ -1,0 +1,1 @@
+This is an example readme set up for lab 1. I will continue to use this repository for future work. 
